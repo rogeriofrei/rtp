@@ -1,0 +1,121 @@
+#NAME PT ⋅ PORTUGAL
+#SERVICE 4097:0:1:71:14C0:14C0:7A633:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501299&chCm=http%3a//localhost/ch/501299_&end=:RTP 1 HD
+#DESCRIPTION RTP 1 HD
+#SERVICE 4097:0:1:71:14C1:14C1:7A632:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501298&chCm=http%3a//localhost/ch/501298_&end=:RTP 1
+#DESCRIPTION RTP 1
+#SERVICE 4097:0:1:71:14C2:14C2:7A635:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501301&chCm=http%3a//localhost/ch/501301_&end=:RTP 2 HD
+#DESCRIPTION RTP 2 HD
+#SERVICE 4097:0:1:71:14C3:14C3:7A634:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501300&chCm=http%3a//localhost/ch/501300_&end=:RTP 2
+#DESCRIPTION RTP 2
+#SERVICE 4097:0:1:71:14C4:14C4:7A638:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501304&chCm=http%3a//localhost/ch/501304_&end=:SIC HD
+#DESCRIPTION SIC HD
+#SERVICE 4097:0:1:71:14C5:14C5:7A637:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501303&chCm=http%3a//localhost/ch/501303_&end=:SIC
+#DESCRIPTION SIC
+#SERVICE 4097:0:1:71:14C6:14C6:7A63A:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501306&chCm=http%3a//localhost/ch/501306_&end=:TVI HD
+#DESCRIPTION TVI HD
+#SERVICE 4097:0:1:71:14C7:14C7:7A639:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501305&chCm=http%3a//localhost/ch/501305_&end=:TVI
+#DESCRIPTION TVI
+#SERVICE 4097:0:1:71:14C8:14C8:7A63C:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501308&chCm=http%3a//localhost/ch/501308_&end=:PORTO CANAL HD
+#DESCRIPTION PORTO CANAL HD
+#SERVICE 4097:0:1:71:14C9:14C9:7A63B:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501307&chCm=http%3a//localhost/ch/501307_&end=:PORTO CANAL
+#DESCRIPTION PORTO CANAL
+#SERVICE 4097:0:1:71:14CA:14CA:7A63D:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501309&chCm=http%3a//localhost/ch/501309_&end=:CANAL 180
+#DESCRIPTION CANAL 180
+#SERVICE 4097:0:1:71:14CB:14CB:7A63E:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501310&chCm=http%3a//localhost/ch/501310_&end=:RTP AFRICA
+#DESCRIPTION RTP AFRICA
+#SERVICE 4097:0:1:71:14CC:14CC:7A640:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501312&chCm=http%3a//localhost/ch/501312_&end=:SIC OPTO
+#DESCRIPTION SIC OPTO
+#SERVICE 4097:0:1:71:14CD:14CD:7A642:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501314&chCm=http%3a//localhost/ch/501314_&end=:SIC MULHER HD
+#DESCRIPTION SIC MULHER HD
+#SERVICE 4097:0:1:71:14CE:14CE:7A641:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501313&chCm=http%3a//localhost/ch/501313_&end=:SIC MULHER
+#DESCRIPTION SIC MULHER
+#SERVICE 4097:0:1:71:14CF:14CF:7A644:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501316&chCm=http%3a//localhost/ch/501316_&end=:GLOBO HD
+#DESCRIPTION GLOBO HD
+#SERVICE 4097:0:1:71:14D0:14D0:7A643:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501315&chCm=http%3a//localhost/ch/501315_&end=:GLOBO
+#DESCRIPTION GLOBO
+#SERVICE 4097:0:1:71:14D1:14D1:7A646:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501318&chCm=http%3a//localhost/ch/501318_&end=:GLOBO NOW HD
+#DESCRIPTION GLOBO NOW HD
+#SERVICE 4097:0:1:71:14D2:14D2:7A645:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501317&chCm=http%3a//localhost/ch/501317_&end=:GLOBO NOW
+#DESCRIPTION GLOBO NOW
+#SERVICE 4097:0:1:71:14D3:14D3:7A648:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501320&chCm=http%3a//localhost/ch/501320_&end=:TVI FICCAO ᴴᴰ
+#DESCRIPTION TVI FICCAO ᴴᴰ
+#SERVICE 4097:0:1:71:14D4:14D4:7A647:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501319&chCm=http%3a//localhost/ch/501319_&end=:TVI FICCAO
+#DESCRIPTION TVI FICCAO
+#SERVICE 4097:0:1:71:14D5:14D5:7A64A:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501322&chCm=http%3a//localhost/ch/501322_&end=:TVI REALITY HD
+#DESCRIPTION TVI REALITY HD
+#SERVICE 4097:0:1:71:14D6:14D6:7A649:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501321&chCm=http%3a//localhost/ch/501321_&end=:TVI REALITY
+#DESCRIPTION TVI REALITY
+#SERVICE 4097:0:1:71:14D7:14D7:7A64B:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501323&chCm=http%3a//localhost/ch/501323_&end=:TVI REALITY * MOSAICO *
+#DESCRIPTION TVI REALITY * MOSAICO *
+#SERVICE 4097:0:1:71:14D8:14D8:7A64C:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501324&chCm=http%3a//localhost/ch/501324_&end=:TVI REALITY CAM 1
+#DESCRIPTION TVI REALITY CAM 1
+#SERVICE 4097:0:1:71:14D9:14D9:7A64D:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501325&chCm=http%3a//localhost/ch/501325_&end=:TVI REALITY CAM 2
+#DESCRIPTION TVI REALITY CAM 2
+#SERVICE 4097:0:1:71:14DA:14DA:7A64E:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501326&chCm=http%3a//localhost/ch/501326_&end=:TVI REALITY CAM 3
+#DESCRIPTION TVI REALITY CAM 3
+#SERVICE 4097:0:1:71:14DB:14DB:7A64F:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501327&chCm=http%3a//localhost/ch/501327_&end=:TVI REALITY CAM 4
+#DESCRIPTION TVI REALITY CAM 4
+#SERVICE 4097:0:1:71:14DC:14DC:7A650:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501328&chCm=http%3a//localhost/ch/501328_&end=:RTP MEMORIA
+#DESCRIPTION RTP MEMORIA
+#SERVICE 4097:0:1:71:14DD:14DD:7A651:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501329&chCm=http%3a//localhost/ch/501329_&end=:CANAL Q
+#DESCRIPTION CANAL Q
+#SERVICE 4097:0:1:71:14DE:14DE:7A653:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501331&chCm=http%3a//localhost/ch/501331_&end=:SIC RADICAL HD
+#DESCRIPTION SIC RADICAL HD
+#SERVICE 4097:0:1:71:14DF:14DF:7A652:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501330&chCm=http%3a//localhost/ch/501330_&end=:SIC RADICAL
+#DESCRIPTION SIC RADICAL
+#SERVICE 4097:0:1:71:14E0:14E0:7A654:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501332&chCm=http%3a//localhost/ch/501332_&end=:MTV PORTUGAL
+#DESCRIPTION MTV PORTUGAL
+#SERVICE 4097:0:1:71:14E1:14E1:7A655:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501333&chCm=http%3a//localhost/ch/501333_&end=:BLAZE HD
+#DESCRIPTION BLAZE HD
+#SERVICE 4097:0:1:71:14E2:14E2:7A656:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501334&chCm=http%3a//localhost/ch/501334_&end=:FUEL TV
+#DESCRIPTION FUEL TV
+#SERVICE 4097:0:1:71:14E3:14E3:7A657:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501335&chCm=http%3a//localhost/ch/501335_&end=:CRIME INVESTIGATION
+#DESCRIPTION CRIME INVESTIGATION
+#SERVICE 4097:0:1:71:14E4:14E4:7A658:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501336&chCm=http%3a//localhost/ch/501336_&end=:CBS REALITY
+#DESCRIPTION CBS REALITY
+#SERVICE 4097:0:1:71:14E5:14E5:7A65A:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501338&chCm=http%3a//localhost/ch/501338_&end=:SIC CARAS  ᴴᴰ
+#DESCRIPTION SIC CARAS  ᴴᴰ
+#SERVICE 4097:0:1:71:14E6:14E6:7A659:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501337&chCm=http%3a//localhost/ch/501337_&end=:SIC CARAS
+#DESCRIPTION SIC CARAS
+#SERVICE 4097:0:1:71:14E7:14E7:7A65B:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501339&chCm=http%3a//localhost/ch/501339_&end=:E! ENTERTAINMENT
+#DESCRIPTION E! ENTERTAINMENT
+#SERVICE 4097:0:1:71:14E8:14E8:7A65D:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501341&chCm=http%3a//localhost/ch/501341_&end=:TV RECORD HD
+#DESCRIPTION TV RECORD HD
+#SERVICE 4097:0:1:71:14E9:14E9:7A65C:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501340&chCm=http%3a//localhost/ch/501340_&end=:TV RECORD
+#DESCRIPTION TV RECORD
+#SERVICE 4097:0:1:71:14EA:14EA:7A65E:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501342&chCm=http%3a//localhost/ch/501342_&end=:FOOD NETWORK HD
+#DESCRIPTION FOOD NETWORK HD
+#SERVICE 4097:0:1:71:14EB:14EB:7A660:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501344&chCm=http%3a//localhost/ch/501344_&end=:TRAVEL CHANNEL HD
+#DESCRIPTION TRAVEL CHANNEL HD
+#SERVICE 4097:0:1:71:14EC:14EC:7A65F:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501343&chCm=http%3a//localhost/ch/501343_&end=:TRAVEL CHANNEL
+#DESCRIPTION TRAVEL CHANNEL
+#SERVICE 4097:0:1:71:14ED:14ED:7A661:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501345&chCm=http%3a//localhost/ch/501345_&end=:FASHION TV
+#DESCRIPTION FASHION TV
+#SERVICE 4097:0:1:71:14EE:14EE:7A663:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501347&chCm=http%3a//localhost/ch/501347_&end=:RTP INTERNACIONAL HD
+#DESCRIPTION RTP INTERNACIONAL HD
+#SERVICE 4097:0:1:71:14EF:14EF:7A664:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501348&chCm=http%3a//localhost/ch/501348_&end=:SIC INTERNACIONAL HD
+#DESCRIPTION SIC INTERNACIONAL HD
+#SERVICE 4097:0:1:71:14F0:14F0:7A665:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501349&chCm=http%3a//localhost/ch/501349_&end=:TVI INTERNACIONAL
+#DESCRIPTION TVI INTERNACIONAL
+#SERVICE 4097:0:1:71:14F1:14F1:7A666:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501350&chCm=http%3a//localhost/ch/501350_&end=:TCV INTERNACIONAL
+#DESCRIPTION TCV INTERNACIONAL
+#SERVICE 4097:0:1:71:14F2:14F2:7A667:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501351&chCm=http%3a//localhost/ch/501351_&end=:CUBAVISIÐN INTERNACIONAL
+#DESCRIPTION CUBAVISIÐN INTERNACIONAL
+#SERVICE 4097:0:1:71:14F3:14F3:7A668:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501352&chCm=http%3a//localhost/ch/501352_&end=:BBC ENTERTAINMENT
+#DESCRIPTION BBC ENTERTAINMENT
+#SERVICE 4097:0:1:71:14F4:14F4:7A669:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501353&chCm=http%3a//localhost/ch/501353_&end=:CNBC EUROPE
+#DESCRIPTION CNBC EUROPE
+#SERVICE 4097:0:1:71:14F5:14F5:7A66A:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501354&chCm=http%3a//localhost/ch/501354_&end=:DEUTSCHE WELLE
+#DESCRIPTION DEUTSCHE WELLE
+#SERVICE 4097:0:1:71:14F6:14F6:7A66B:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501355&chCm=http%3a//localhost/ch/501355_&end=:TPA INTERNACIONAL
+#DESCRIPTION TPA INTERNACIONAL
+#SERVICE 4097:0:1:71:14F7:14F7:7A66C:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501356&chCm=http%3a//localhost/ch/501356_&end=:TVE INTERNACIONAL
+#DESCRIPTION TVE INTERNACIONAL
+#SERVICE 4097:0:1:71:14F8:14F8:7A66D:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501357&chCm=http%3a//localhost/ch/501357_&end=:ZAP VIVA HD
+#DESCRIPTION ZAP VIVA HD
+#SERVICE 4097:0:1:71:14F9:14F9:7A66F:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501359&chCm=http%3a//localhost/ch/501359_&end=:ICONCERTS
+#DESCRIPTION ICONCERTS
+#SERVICE 4097:0:1:71:14FA:14FA:7A670:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501360&chCm=http%3a//localhost/ch/501360_&end=:AMC CRIME
+#DESCRIPTION AMC CRIME
+#SERVICE 4097:0:1:71:14FB:14FB:7A671:0:0:0:http%3a//optimus-tv.org%3a8080/j.php?mode=itv&ph1=p&hst=aHR0cDovL29wdGltdXMtdHYub3JnOjgwODA=&chCode=MDA6MUE6Nzk6MDg6RTM6MUI=&epNum=&epId=&cId=113&sId=501361&chCm=http%3a//localhost/ch/501361_&end=:AMC BREAK FHD
+#DESCRIPTION AMC BREAK FHD
